@@ -104,7 +104,7 @@ exports.poof = true;
 exports.expTimer = 30000;
 
 // add system operators.
-exports.special = ['thedarksunset','immortalsx'];
+exports.special = ['joelprov2'];
 
 /**
  * crash guard - write errors to log file instead of crashing
